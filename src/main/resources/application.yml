@@ -1,0 +1,13 @@
+spring:
+  main:
+    web-application-type: none
+
+experiment:
+  output-dir: results
+
+model:
+  api:
+    # Example: http://192.168.1.50:8080
+    # The client sends POST requests to /generate.
+    base-url: ${MODEL_API_BASE_URL:}
+    timeout-ms: ${MODEL_API_TIMEOUT_MS:5000}
