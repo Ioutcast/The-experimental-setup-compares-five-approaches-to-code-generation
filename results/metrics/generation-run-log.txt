@@ -1,0 +1,400 @@
+approach=Ручной эталон
+version=v1 Базовый процесс согласования заявки
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=517
+
+approach=Шаблонная генерация
+version=v1 Базовый процесс согласования заявки
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=283
+
+approach=DSL/model-driven
+version=v1 Базовый процесс согласования заявки
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=79
+
+approach=LLM-генерация
+version=v1 Базовый процесс согласования заявки
+externalModelCalled=false
+promptIterations=3
+manualRepairLoc=134
+modelExcerpt=
+Generated layered implementation plan:
+approach=LLM
+version=v1
+requirements:
+
+approach=Гибридный подход
+version=v1 Базовый процесс согласования заявки
+externalModelCalled=false
+promptIterations=2
+manualRepairLoc=36
+modelExcerpt=
+Generated layered implementation plan:
+approach=HYBRID
+version=v1
+requirements:
+
+approach=Ручной эталон
+version=v2 Добавление SLA и эскалаций
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=595
+
+approach=Шаблонная генерация
+version=v2 Добавление SLA и эскалаций
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=375
+
+approach=DSL/model-driven
+version=v2 Добавление SLA и эскалаций
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=100
+
+approach=LLM-генерация
+version=v2 Добавление SLA и эскалаций
+externalModelCalled=false
+promptIterations=3
+manualRepairLoc=180
+modelExcerpt=
+Generated layered implementation plan:
+approach=LLM
+version=v2
+requirements:
+
+approach=Гибридный подход
+version=v2 Добавление SLA и эскалаций
+externalModelCalled=false
+promptIterations=2
+manualRepairLoc=47
+modelExcerpt=
+Generated layered implementation plan:
+approach=HYBRID
+version=v2
+requirements:
+
+approach=Ручной эталон
+version=v3 Добавление службы безопасности
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=667
+
+approach=Шаблонная генерация
+version=v3 Добавление службы безопасности
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=443
+
+approach=DSL/model-driven
+version=v3 Добавление службы безопасности
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=115
+
+approach=LLM-генерация
+version=v3 Добавление службы безопасности
+externalModelCalled=false
+promptIterations=4
+manualRepairLoc=211
+modelExcerpt=
+Generated layered implementation plan:
+approach=LLM
+version=v3
+requirements:
+
+approach=Гибридный подход
+version=v3 Добавление службы безопасности
+externalModelCalled=false
+promptIterations=2
+manualRepairLoc=55
+modelExcerpt=
+Generated layered implementation plan:
+approach=HYBRID
+version=v3
+requirements:
+
+approach=Ручной эталон
+version=v4 Добавление юридического согласования
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=737
+
+approach=Шаблонная генерация
+version=v4 Добавление юридического согласования
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=508
+
+approach=DSL/model-driven
+version=v4 Добавление юридического согласования
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=129
+
+approach=LLM-генерация
+version=v4 Добавление юридического согласования
+externalModelCalled=false
+promptIterations=4
+manualRepairLoc=241
+modelExcerpt=
+Generated layered implementation plan:
+approach=LLM
+version=v4
+requirements:
+
+approach=Гибридный подход
+version=v4 Добавление юридического согласования
+externalModelCalled=false
+promptIterations=2
+manualRepairLoc=61
+modelExcerpt=
+Generated layered implementation plan:
+approach=HYBRID
+version=v4
+requirements:
+
+approach=Ручной эталон
+version=v5 Добавление делегирования согласующих
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=816
+
+approach=Шаблонная генерация
+version=v5 Добавление делегирования согласующих
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=592
+
+approach=DSL/model-driven
+version=v5 Добавление делегирования согласующих
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=159
+
+approach=LLM-генерация
+version=v5 Добавление делегирования согласующих
+externalModelCalled=false
+promptIterations=4
+manualRepairLoc=286
+modelExcerpt=
+Generated layered implementation plan:
+approach=LLM
+version=v5
+requirements:
+
+approach=Гибридный подход
+version=v5 Добавление делегирования согласующих
+externalModelCalled=false
+promptIterations=3
+manualRepairLoc=73
+modelExcerpt=
+Generated layered implementation plan:
+approach=HYBRID
+version=v5
+requirements:
+
+approach=Ручной эталон
+version=v6 Добавление внешней финансовой системы
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=899
+
+approach=Шаблонная генерация
+version=v6 Добавление внешней финансовой системы
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=690
+
+approach=DSL/model-driven
+version=v6 Добавление внешней финансовой системы
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=199
+
+approach=LLM-генерация
+version=v6 Добавление внешней финансовой системы
+externalModelCalled=false
+promptIterations=5
+manualRepairLoc=333
+modelExcerpt=
+Generated layered implementation plan:
+approach=LLM
+version=v6
+requirements:
+
+approach=Гибридный подход
+version=v6 Добавление внешней финансовой системы
+externalModelCalled=false
+promptIterations=3
+manualRepairLoc=88
+modelExcerpt=
+Generated layered implementation plan:
+approach=HYBRID
+version=v6
+requirements:
+
+approach=Ручной эталон
+version=v7 Добавление многофилиальной структуры организации
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=976
+
+approach=Шаблонная генерация
+version=v7 Добавление многофилиальной структуры организации
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=728
+
+approach=DSL/model-driven
+version=v7 Добавление многофилиальной структуры организации
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=213
+
+approach=LLM-генерация
+version=v7 Добавление многофилиальной структуры организации
+externalModelCalled=false
+promptIterations=5
+manualRepairLoc=367
+modelExcerpt=
+Generated layered implementation plan:
+approach=LLM
+version=v7
+requirements:
+
+approach=Гибридный подход
+version=v7 Добавление многофилиальной структуры организации
+externalModelCalled=false
+promptIterations=3
+manualRepairLoc=93
+modelExcerpt=
+Generated layered implementation plan:
+approach=HYBRID
+version=v7
+requirements:
+
+approach=Ручной эталон
+version=v8 Добавление настраиваемых типов заявок
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=1057
+
+approach=Шаблонная генерация
+version=v8 Добавление настраиваемых типов заявок
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=773
+
+approach=DSL/model-driven
+version=v8 Добавление настраиваемых типов заявок
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=229
+
+approach=LLM-генерация
+version=v8 Добавление настраиваемых типов заявок
+externalModelCalled=false
+promptIterations=5
+manualRepairLoc=407
+modelExcerpt=
+Generated layered implementation plan:
+approach=LLM
+version=v8
+requirements:
+
+approach=Гибридный подход
+version=v8 Добавление настраиваемых типов заявок
+externalModelCalled=false
+promptIterations=3
+manualRepairLoc=100
+modelExcerpt=
+Generated layered implementation plan:
+approach=HYBRID
+version=v8
+requirements:
+
+approach=Ручной эталон
+version=v9 Добавление аудита запрещенных действий
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=1128
+
+approach=Шаблонная генерация
+version=v9 Добавление аудита запрещенных действий
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=839
+
+approach=DSL/model-driven
+version=v9 Добавление аудита запрещенных действий
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=253
+
+approach=LLM-генерация
+version=v9 Добавление аудита запрещенных действий
+externalModelCalled=false
+promptIterations=6
+manualRepairLoc=448
+modelExcerpt=
+Generated layered implementation plan:
+approach=LLM
+version=v9
+requirements:
+
+approach=Гибридный подход
+version=v9 Добавление аудита запрещенных действий
+externalModelCalled=false
+promptIterations=3
+manualRepairLoc=108
+modelExcerpt=
+Generated layered implementation plan:
+approach=HYBRID
+version=v9
+requirements:
+
+approach=Ручной эталон
+version=v10 Добавление повторной генерации без потери ручных изменений
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=1213
+
+approach=Шаблонная генерация
+version=v10 Добавление повторной генерации без потери ручных изменений
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=948
+
+approach=DSL/model-driven
+version=v10 Добавление повторной генерации без потери ручных изменений
+externalModelCalled=false
+promptIterations=0
+manualRepairLoc=281
+
+approach=LLM-генерация
+version=v10 Добавление повторной генерации без потери ручных изменений
+externalModelCalled=false
+promptIterations=6
+manualRepairLoc=521
+modelExcerpt=
+Generated layered implementation plan:
+approach=LLM
+version=v10
+requirements:
+
+approach=Гибридный подход
+version=v10 Добавление повторной генерации без потери ручных изменений
+externalModelCalled=false
+promptIterations=4
+manualRepairLoc=120
+modelExcerpt=
+Generated layered implementation plan:
+approach=HYBRID
+version=v10
+requirements:
+
