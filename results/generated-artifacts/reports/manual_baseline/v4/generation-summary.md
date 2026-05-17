@@ -16,4 +16,4 @@ Requirement version: v4 Добавление юридического согла
 - Эволюция требований: 0.66
 
 ## Notes
-Model notes: not used.
+Model notes: deterministic strategy without remote completion.

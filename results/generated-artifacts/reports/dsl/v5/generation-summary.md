@@ -16,4 +16,4 @@ Requirement version: v5 Добавление делегирования согл
 - Эволюция требований: 0.79
 
 ## Notes
-Model notes: not used.
+Model notes: deterministic strategy without remote completion.

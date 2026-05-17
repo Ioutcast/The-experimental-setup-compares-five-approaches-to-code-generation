@@ -16,4 +16,4 @@ Requirement version: v8 Добавление настраиваемых типо
 - Эволюция требований: 0.38
 
 ## Notes
-Model notes: not used.
+Model notes: deterministic strategy without remote completion.

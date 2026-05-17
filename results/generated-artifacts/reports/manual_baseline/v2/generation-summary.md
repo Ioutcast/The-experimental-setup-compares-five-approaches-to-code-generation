@@ -16,4 +16,4 @@ Requirement version: v2 Добавление SLA и эскалаций
 - Эволюция требований: 0.69
 
 ## Notes
-Model notes: not used.
+Model notes: deterministic strategy without remote completion.

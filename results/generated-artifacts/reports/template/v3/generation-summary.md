@@ -16,4 +16,4 @@ Requirement version: v3 Добавление службы безопасност
 - Эволюция требований: 0.44
 
 ## Notes
-Model notes: not used.
+Model notes: deterministic strategy without remote completion.

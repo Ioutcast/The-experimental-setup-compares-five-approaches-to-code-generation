@@ -16,4 +16,4 @@ Requirement version: v7 Добавление многофилиальной ст
 - Эволюция требований: 0.78
 
 ## Notes
-Model notes: not used.
+Model notes: deterministic strategy without remote completion.

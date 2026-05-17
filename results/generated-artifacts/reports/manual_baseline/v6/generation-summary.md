@@ -16,4 +16,4 @@ Requirement version: v6 Добавление внешней финансовой
 - Эволюция требований: 0.63
 
 ## Notes
-Model notes: not used.
+Model notes: deterministic strategy without remote completion.
